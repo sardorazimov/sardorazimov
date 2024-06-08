@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-https://learnsql.com/blog/what-programming-language-should-you-learn/What-Programming-Language-Should-You-Learn.jpg
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<img src="https://learnsql.com/blog/what-programming-language-should-you-learn/What-Programming-Language-Should-You-Learn.jpg" />
+<h3 align="center">A passionate FullStack developer from Turkey</h3>
 
 - 🔭 I’m currently working on **Nextjs and TypeScrpit**
 
