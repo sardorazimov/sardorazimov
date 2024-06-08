@@ -20,4 +20,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/liyamassa"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="liyamassa" /></a></p><br><br>
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/sardorazimov/sardorazimov/blob/output/github-contribution-grid-snake.gif)
