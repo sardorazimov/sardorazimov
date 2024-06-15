@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://learnsql.com/blog/what-programming-language-should-you-learn/What-Programming-Language-Should-You-Learn.jpg" />
+<img src="https://github.com/sardorazimov/e_commerce/blob/master/public/ts.jpg?raw=true" />
 <h3 align="center">A passionate FullStack developer from Turkey</h3>
 
 - 🔭 I’m currently working on **Nextjs and TypeScrpit**
