@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://github.com/sardorazimov/e_commerce/blob/master/public/ts.jpg?raw=true" />
+<img src="https://github.com/sardorazimov/portfolio_amazing/blob/main/public/icons/dev.jpg?raw=true" />
 <h3 align="center">A passionate FullStack developer from Turkey</h3>
 
 - 🔭 I’m currently working on **Nextjs and TypeScrpit**
